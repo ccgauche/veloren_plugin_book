@@ -1,0 +1,6 @@
+[book]
+authors = ["ccgauche"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Veloren Plugin API Book"
